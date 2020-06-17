@@ -1,6 +1,6 @@
 ---
 title: Article Title 1
-thumbnail: /assets/5.svg
+thumbnail: /assets/blank_thumb.png
 category: Category1
 difficulty: Simple
 location: Berlin, Germany
