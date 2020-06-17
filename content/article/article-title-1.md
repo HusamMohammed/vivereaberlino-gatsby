@@ -6,6 +6,7 @@ difficulty: Simple
 location: Berlin, Germany
 tags: tag1, tag2
 date: 2020-06-17T11:54:54.233Z
+featured: true
 ---
 #### Lorem ipsum
 
